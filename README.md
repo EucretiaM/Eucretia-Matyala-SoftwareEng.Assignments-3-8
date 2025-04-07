@@ -1,4 +1,4 @@
-Assignment 8 outlines the Object State Modeling and Activity Workflow Modeling of the Math Booster App in line with the functional requirements of the system available in (assignment 4)
+Assignment 8 outlines the Object State Modeling and Activity Workflow Modeling of the Math Booster App in line with the functional requirements of the system available in [assignment 4](https://github.com/EucretiaM/EucretiaM-Matyala-Assignment-4)
 Use Cases as well in (assignment 5)
 and user stories and sprint tasks available in [assignment 6]
 Objective
